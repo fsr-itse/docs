@@ -74,9 +74,9 @@ Every member of the student body has the right to vote and to stand as a candida
 
 (2) Voters are not bound to the electoral proposals.
 
-(3) Voters will be given the opportunity to vote by email from the time candidates are announced. The email procedure must reflect a postal vote—insofar as the cast vote cannot be matched to the voter. To carry out this procedure, the vote is cast in the form of an email attachment, which can be evaluated separately from the email itself. The casting of a vote by email must be done using the HPI account.
+(3) Voters are given the opportunity to vote by postal ballot or in person.
 
-(4) If a person has voted both by email and by ballot, the vote cast by email will be forfeited.
+(4) If a person has voted both by postal ballot and in person, the vote cast by postal ballot will be forfeited.
 
 (5) If there are several people with the same name, the name used in the HPI domain with a number added to it will be used for voting. The election committee will explain this at the opening of the election.
 

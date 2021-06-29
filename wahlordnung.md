@@ -72,9 +72,9 @@ Jedes Mitglied der Fachschaft besitzt das aktive und passive Wahlrecht.
 
 (2) Wählende sind nicht an die Wahlvorschläge gebunden.
 
-(3) Wahlberechtigten wird ab der Bekanntgabe der Wahlvorschläge die Möglichkeit gegeben, ihre Stimme per E-Mail abzugeben. Dieses Verfahren muss einer Briefwahl insofern entsprechen, als abgegebene Stimmen der wählenden Person nicht zugeordnet werden dürfen. Dafür ist die Stimmabgabe in einem getrennt von der E-Mail auszuwertenden Anhang zu tätigen. Die Abgabe der Stimmen per E-Mail muss vom HPI-Konto erfolgen.
+(3) Wahlberechtigten wird die Möglichkeit gegeben, ihre Stimme per Urnen- oder Briefwahl abzugeben.
 
-(4) Wenn eine Person sowohl per E-Mail als auch per Wahlzettel abgestimmt hat, verfällt die Stimmabgabe aus der E-Mail.
+(4) Wenn eine Person sowohl per Briefwahl als auch per Wahlzettel abgestimmt hat, verfällt die Stimmabgabe aus der Briefwahl.
 
 (5) Bei mehreren Personen gleichen Namens wird für die Stimmabgabe der in der HPI-Domäne geführte Name mit nachgestellter Zahl verwendet. Der Wahlausschuss weist zur Eröffnung der Wahl darauf hin.
 
